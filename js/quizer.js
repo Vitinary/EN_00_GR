@@ -346,14 +346,14 @@ const en_2000_gr_icon = [
 	'pop_medium',
 	'pop_hard',
 	'womens_vocals',
-	'rock_hard',
+	'rock_1',
 	'rock_2',
-	'rock_1'
+	'rock_hard'
 ];
 
-const EN_2000_GR_PACK_1 = 6;
+const EN_2000_GR_PACK_1 = 4;
 const EN_2000_GR_PACK_2 = 5;
-const EN_2000_GR_PACK_3 = 4;
+const EN_2000_GR_PACK_3 = 6;
 const EN_2000_GR_PACK_4 = 3;
 const EN_2000_GR_PACK_5 = 1;
 const EN_2000_GR_PACK_6 = 2;
