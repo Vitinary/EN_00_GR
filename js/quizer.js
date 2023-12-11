@@ -362,36 +362,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Green Day',
-			song : 'Boulevard Of Broken Dreams',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Green Day',
 			song : 'American Idiot'
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Green Day',
-			song : 'Wake Me Up When September Ends',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Green Day',
 			song : 'The Saints Are Coming (ft U2)'
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Green Day',
-			song : 'The Simpsons Theme',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Green Day',
-			song : 'Know Your Enemy',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -406,43 +382,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Offspring',
-			song : "Million Miles Away",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Offspring',
-			song : "Defy You",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Offspring',
 			song : "Hit That"
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Offspring',
-			song : "Next to you",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Offspring',
-			song : "Can't Repeat",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Offspring',
-			song : "Hammerhead",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Offspring',
-			song : "You're Gonna Go Far, Kid",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -462,24 +402,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Sum 41',
-			song : "Still Waiting",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Sum 41',
 			song : "In Too Deep"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Blink 182',
 			song : "I Miss You"
-		},
-		{
-			pack : EN_2000_GR_PACK_1,
-			group : 'Blink 182',
-			song : "Man Overboard",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -493,38 +421,8 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : 'Otherside',
-			ignore : true
-		},	
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : 'Californication',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : "Nickelback",
-			song : 'How You Remind Me',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
 			group : "Linkin Park",
 			song : 'In the end'
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : "Can't Stop",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : "Linkin Park",
-			song : 'Numb',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -539,25 +437,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Linkin Park',
-			song : 'Numb / Encore (ft Jay-Z)',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Linkin Park',
-			song : "What I've Done",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Linkin Park',
 			song : "Bleed It Out"
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Linkin Park',
-			song : "We Made It (ft Busta Rhymes)",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -572,43 +452,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Red Hot Chili Peppers',
-			song : 'Fortune Faded',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : 'Dani California',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
 			song : 'Tell Me Baby'
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : 'Snow (Hey Oh)',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : 'Desecration Smile',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Red Hot Chili Peppers',
-			song : 'Hump de Bump',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
-			song : "Stuck In A Moment You Can't Get Out Of",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -618,48 +462,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'U2',
-			song : "Walk On",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
 			song : "Electrical Storm"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'U2',
-			song : "Vertigo",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
-			song : "All Because Of You",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
-			song : "Sometimes You Can't Make It On Your Own",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
 			song : "City Of Blinding Lights"
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
-			song : "Window In The Skies",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'U2',
-			song : "Get On Your Boots",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -678,73 +486,13 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
-			group : 'Killers',
-			song : "Read My Mind",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Killers',
-			song : "Human",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Killers',
-			song : "Spaceman",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Nickelback',
-			song : "Someday",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Nickelback',
-			song : "Figured You Out",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
 			group : 'Nickelback',
 			song : "Photograph"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Nickelback',
-			song : "Far Away",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Nickelback',
-			song : "Gotta Be Somebody",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Nickelback',
 			song : "If Today Was Your Last Day"
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Limp Bizkit',
-			song : "Behind Blue Eyes",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Limp Bizkit',
-			song : "Almost Over",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_2,
-			group : 'Limp Bizkit',
-			song : "Take A Look Around",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -798,12 +546,6 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
-			group : 'DragonForce',
-			song : 'Fury Of The Storm',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
 			group : 'Three Days Grace',
 			song : 'I Hate Everything About You'
 		},
@@ -824,12 +566,6 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
-			group : 'Skillet',
-			song : "Awake and Alive",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
 			group : '3 Doors Down',
 			song : "Train"
 		},
@@ -842,18 +578,6 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_3,
 			group : '3 Doors Down',
 			song : "Here Without You"
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
-			group : 'Deep Purple',
-			song : "Clearly Quite Absurd",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_4,
-			group : 'Garbage',
-			song : "Why Do You Love Me",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -904,12 +628,6 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_3,
 			group : "Kasabian",
 			song : 'L.S.F.'
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
-			group : "Kasabian",
-			song : 'Underdog',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
@@ -978,26 +696,8 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
-			group : "Black Eyed Peas",
-			song : "Pump It",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
 			group : "Gorillaz",
 			song : 'Clint Eastwood'
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Black Eyed Peas",
-			song : 'Where Is The Love?',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Black Eyed Peas",
-			song : "Let's Get It Started",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1006,32 +706,8 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
-			group : "Black Eyed Peas",
-			song : "My Humps",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Gorillaz",
-			song : 'Feel Good Inc',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
 			song : 'Falling asleep'
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Morandi",
-			song : 'Love Me',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Morandi",
-			song : 'Angels (Love Is The Answer)',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1080,49 +756,13 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
-			group : "Akcent",
-			song : "Kylie",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Akcent",
-			song : "Stay with Me",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Akcent",
-			song : "Jokero",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Akcent",
-			song : "My Passion",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
 			group : 'OutKast',
 			song : 'The Way You Move (ft Sleep Brown)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Black Eyed Peas",
-			song : "Boom Boom Pow",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Black Eyed Peas",
 			song : "I Gotta Feeling"
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Black Eyed Peas",
-			song : "Mas Que Nada (ft Sergio Mendes)",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1150,27 +790,9 @@ let en_2000_gr = [
 			song : "Hush Hush"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
-			group : 'Pussycat Dolls',
-			song : "When I Grow Up",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_4,
-			group : 'Pussycat Dolls',
-			song : "Sway",
-			ignore : true
-		},
-		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Maroon 5',
 			song : 'Makes Me Wonder'
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : 'Maroon 5',
-			song : 'Wake Up Call',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1181,12 +803,6 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Owl City',
 			song : 'Fireflies'
-		},
-		{
-			pack : EN_2000_GR_PACK_4,
-			group : "Las Ketchup",
-			song : 'Aserejé',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1235,20 +851,8 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
-			group : "Terror Squad",
-			song : "Lean Back",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_6,
 			group : "Travis",
 			song : "Sing"
-		},
-		{
-			pack : EN_2000_GR_PACK_4,
-			group : 'Nina Sky',
-			song : 'Move Ya Body',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1332,18 +936,6 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
-			group : 'Train',
-			song : "Hey, Soul Sister",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_6,
-			group : 'Wheatus',
-			song : "Teenage Dirtbag",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_6,
 			group : 'Beastie Boys',
 			song : "An Open Letter To NYC"
 		},
@@ -1389,20 +981,8 @@ let en_2000_gr = [
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
-			group : 'Whizzkids',
-			song : "Rumours (Digi Digi) (ft Inusa, Dawuda)",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_6,
 			group : 'Lighthouse Family',
 			song : "Run"
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : 'Backstreet Boys',
-			song : "Shape of My Heart",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1452,12 +1032,6 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : "Fall Out Boy",
-			song : "Sugar, We're Goin Down",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
-			group : "Fall Out Boy",
 			song : "This Ain’t a Scene, It’s an Arms Race"
 		},
 		{
@@ -1483,30 +1057,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Gorillaz",
-			song : "On Melancholy Hill",
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Gorillaz",
 			song : "Dirty Harry"
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Gorillaz",
-			song : "Kids With Guns",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Jakarta",
 			song : "One Desire"
-		},
-		{
-			pack : EN_2000_GR_PACK_6,
-			group : "Jakarta",
-			song : "Superstar",
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1539,12 +1095,6 @@ let en_2000_gr = [
 			song : "Original Sin"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
-			group : "Pussycat Dolls",
-			song : "I don't need a man",
-			ignore : true
-		},
-		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Faithless",
 			song : "We Come 1"
@@ -1572,30 +1122,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : 'Papa Roach',
-			song : 'Lifeline',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
-			group : 'Papa Roach',
-			song : 'Forever',
-			ignore : true
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
-			group : 'Papa Roach',
 			song : 'Scars'
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : 'Papa Roach',
 			song : 'Getting Away with Murder'
-		},
-		{
-			pack : EN_2000_GR_PACK_3,
-			group : 'Papa Roach',
-			song : 'She Loves Me Not',
-			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1707,7 +1239,7 @@ function generateSongIdsWithPrefix(arr, lang, year, type){
 		id = 'Song (' + i + ')';
 		arr[i-1].id = prefix + id;
 		arr[i-1].audioPath = audioPath + id;
-		arr[i-1].imgPath = imgPath + 'avatar/' + arr[i-1].group;
+		arr[i-1].imgPath = imgPath + arr[i-1].group;
 	}
 	return arr;
 }
@@ -1889,7 +1421,7 @@ function setPathsByPack(num){
 	songs = arr.filter(song => song.pack == num && !song.ignore);
 	songs.forEach(song => {
 		song.audioPath = 'audio/' + lang + '/' + year + '/' + artist_type + '/' + song.id;
-		song.imgPath = 'img/' + lang + '/' + year + '/' + artist_type + '/avatar/' + song.group;
+		song.imgPath = 'img/' + lang + '/' + year + '/' + artist_type + '/' + song.group;
 	});
 	finalMessage = ' Ура! Вы освоили "Дискотеку ' + year + '-х"!';
 	$('#total').html(songs.length);
@@ -1953,7 +1485,7 @@ function setMusicalAlphabetPack(arr, type, audioPath, imgPath){
 		song.letter = Array.from(song.group)[0];
 		song.type = type;
 		song.audioPath = audioPath + song.id;
-		song.imgPath = imgPath + 'avatar/' + song.group;
+		song.imgPath = imgPath + song.group;
 	});
 	return result;
 }
