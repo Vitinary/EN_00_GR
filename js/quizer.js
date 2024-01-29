@@ -612,7 +612,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Paramore",
-			song : 'Emergency'
+			song : 'Emergency',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
@@ -1148,6 +1149,24 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_4,
 			group : 'Benefit',
 			song : "Sex Sells"
+		},
+		{
+			pack : EN_2000_GR_PACK_4,
+			group : "Paramore",
+			song : 'Misery Business',
+			year : 2007
+		},
+		{
+			pack : EN_2000_GR_PACK_4,
+			group : "Paramore",
+			song : 'Decode',
+			year : 2008
+		},
+		{
+			pack : EN_2000_GR_PACK_4,
+			group : "Paramore",
+			song : 'Ignorance',
+			year : 2009
 		}
 ];
 
