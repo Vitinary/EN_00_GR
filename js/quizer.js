@@ -1167,6 +1167,60 @@ let en_2000_gr = [
 			group : "Paramore",
 			song : 'Ignorance',
 			year : 2009
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Theory of a Deadman",
+			song : 'Bad Girlfriend',
+			year : 2008
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Theory of a Deadman",
+			song : 'All or Nothing',
+			year : 2008
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Theory of a Deadman",
+			song : 'Hate My Life',
+			year : 2008
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Hollywood Undead",
+			song : 'Everywhere I Go',
+			year : 2009
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Hollywood Undead",
+			song : 'Undead',
+			year : 2008
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Hollywood Undead",
+			song : 'Hear Me Now',
+			year : 2010
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Breaking Benjamin",
+			song : 'The Diary of Jane',
+			year : 2006
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Breaking Benjamin",
+			song : 'I Will Not Bow',
+			year : 2009
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Breaking Benjamin",
+			song : 'Breath',
+			year : 2007
 		}
 ];
 
