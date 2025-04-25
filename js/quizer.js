@@ -1222,6 +1222,12 @@ let en_2000_gr = [
 			group : "Breaking Benjamin",
 			song : 'Breath',
 			year : 2007
+		},
+		{
+			pack : EN_2000_GR_PACK_4,
+			group : "Veronicas",
+			song : 'Untouched',
+			year : 2007
 		}
 ];
 
