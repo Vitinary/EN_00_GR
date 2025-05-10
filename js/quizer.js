@@ -1228,6 +1228,21 @@ let en_2000_gr = [
 			group : "Veronicas",
 			song : 'Untouched',
 			year : 2007
+		},
+		{
+			pack : EN_2000_GR_PACK_3,
+			group : "Weezer",
+			song : 'Beverly Hills (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_3,
+			group : "Weezer",
+			song : 'Island in the Sun (2001)'
+		},
+		{
+			pack : EN_2000_GR_PACK_3,
+			group : "Weezer",
+			song : 'Pork and Beans (2008)'
 		}
 ];
 
