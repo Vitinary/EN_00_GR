@@ -1243,6 +1243,16 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_3,
 			group : "Weezer",
 			song : 'Pork and Beans (2008)'
+		},
+		{
+			pack : EN_2000_GR_PACK_3,
+			group : 'Yeah Yeah Yeahs',
+			song : 'Heads Will Roll (2009)'
+		},
+		{
+			pack : EN_2000_GR_PACK_3,
+			group : 'Yeah Yeah Yeahs',
+			song : 'Maps (2004)'
 		}
 ];
 
