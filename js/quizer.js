@@ -667,38 +667,43 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Destiny's Child",
-			song : 'Say My Name',
+			song : 'Say My Name'
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : 'OutKast',
+			song : 'Ms. Jackson',
+			ignore : true
+		},		
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : "Coldplay",
+			song : 'The Scientist',
+			ignore : true
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : 'Coldplay',
+			song : 'Clocks',
 			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'OutKast',
-			song : 'Ms. Jackson'
-		},		
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : "Coldplay",
-			song : 'The Scientist'
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : 'Coldplay',
-			song : 'Clocks'
-		},
-		{
-			pack : EN_2000_GR_PACK_5,
-			group : 'OutKast',
-			song : 'Hey Ya!'
+			song : 'Hey Ya!',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Maroon 5',
-			song : 'This Love'
+			song : 'This Love',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Maroon 5',
-			song : 'She Will Be Loved'
+			song : 'She Will Be Loved',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -713,77 +718,92 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "OneRepublic",
-			song : "Apologize (ft Timbaland)"
+			song : "Apologize (ft Timbaland)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Coldplay",
-			song : "Viva La Vida"
+			song : "Viva La Vida",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Gorillaz",
-			song : 'Clint Eastwood'
+			song : 'Clint Eastwood',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Gorillaz",
-			song : 'Dare'
+			song : 'Dare',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Falling asleep'
+			song : 'Falling asleep',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Save Me'
+			song : 'Save Me',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Colors'
+			song : 'Colors',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "OneRepublic",
-			song : "Stop And Stare"
+			song : "Stop And Stare",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "OneRepublic",
-			song : "All The Right Moves"
+			song : "All The Right Moves",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Muse",
-			song : "Uprising"
+			song : "Uprising",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Muse",
-			song : "Starlight"
+			song : "Starlight",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Muse",
-			song : "Undisclosed Desires"
+			song : "Undisclosed Desires",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Cure",
-			song : "Cut Here"
+			song : "Cut Here",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Cure",
-			song : "The Only One"
+			song : "The Only One",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'OutKast',
-			song : 'The Way You Move (ft Sleep Brown)'
+			song : 'The Way You Move (ft Sleep Brown)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -818,7 +838,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Maroon 5',
-			song : 'Makes Me Wonder'
+			song : 'Makes Me Wonder',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -838,9 +859,9 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_1,
 			group : "Panic! At The Disco",
-			song : 'I Write Sins Not Tragedies'
+			song : 'I Write Sins Not Tragedies (2006)'
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -887,7 +908,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Blue',
-			song : 'Guilty'
+			song : 'Guilty',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -900,9 +922,9 @@ let en_2000_gr = [
 			song : 'World Looking In'
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Westlife',
-			song : 'Mandy'
+			song : 'Mandy (2003)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -949,12 +971,13 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Brainstorm',
-			song : "Maybe"
+			song : "Maybe",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Five',
-			song : "Rock the Party"
+			song : "Rock the Party (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -969,12 +992,14 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Beastie Boys',
-			song : "An Open Letter To NYC"
+			song : "An Open Letter To NYC",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Daft Punk',
-			song : "One More Time"
+			song : "One More Time",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -989,17 +1014,18 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Hurts',
-			song : "Wonderful Life"
+			song : "Wonderful Life (2010)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Hurts',
-			song : "Stay"
+			song : "Stay (2010)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Basic Element',
-			song : "To You"
+			song : "To You",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1030,17 +1056,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Bomfunk MCs",
-			song : "Super Electric"
+			song : "Super Electric",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Bomfunk MCs",
-			song : "Hypnotic"
+			song : "Hypnotic",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Bomfunk MCs",
-			song : "Live Your Life"
+			song : "Live Your Life",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1090,7 +1119,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Gorillaz",
-			song : "Dirty Harry"
+			song : "Dirty Harry",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1100,8 +1130,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Sylver",
-			song : "Forgiven",
-			ignore : true
+			song : "Forgiven"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1133,12 +1162,13 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Faithless",
-			song : "We Come 1"
+			song : "We Come 1 (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Faithless",
-			song : "One Step Too Far (ft Dido)"
+			song : "One Step Too Far (ft Dido) (2002)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1301,6 +1331,26 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "My Chemical Romance",
 			song : 'Helena (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : 'Westlife',
+			song : 'Uptown Girl (2001)'
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : 'Westlife',
+			song : 'You Raise Me Up (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Five',
+			song : "Let's Dance (2001)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Panic! At The Disco",
+			song : 'She Had the World (2008)'
 		}
 ];
 
