@@ -552,7 +552,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Evanescence",
-			song : 'Bring Me To Life'
+			song : 'Bring Me To Life',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
@@ -618,7 +619,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Evanescence",
-			song : 'My Immortal'
+			song : 'My Immortal',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -665,7 +667,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Destiny's Child",
-			song : 'Say My Name'
+			song : 'Say My Name',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -820,7 +823,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Lady Antebellum',
-			song : 'Need You Now'
+			song : 'Need You Now (2010)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -830,7 +834,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Cascada",
-			song : 'Everytime We Touch'
+			song : 'Everytime We Touch',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -855,12 +860,14 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Global Deejays",
-			song : "The Sound Of San Francisco"
+			song : "The Sound Of San Francisco",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Benassi Bros",
-			song : "Hit My Heart"
+			song : "Hit My Heart",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -900,7 +907,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'ATC',
-			song : 'Around the World'
+			song : 'Around the World',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -915,7 +923,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'ATC',
-			song : "I'm in Heaven"
+			song : "I'm in Heaven",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1000,7 +1009,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Aly & AJ',
-			song : "Potential Breakup Song"
+			song : "Potential Breakup Song",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1090,7 +1100,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Sylver",
-			song : "Forgiven"
+			song : "Forgiven",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1132,17 +1143,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Da Buzz",
-			song : "Dangerous"
+			song : "Dangerous",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Da Buzz",
-			song : "Wonder Where You Are"
+			song : "Wonder Where You Are",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Da Buzz",
-			song : "Let Me Love You Tonight"
+			song : "Let Me Love You Tonight",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -1172,7 +1186,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Benefit',
-			song : "Sex Sells"
+			song : "Sex Sells",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
