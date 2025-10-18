@@ -363,137 +363,155 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Green Day',
-			song : 'American Idiot'
+			song : 'American Idiot (2004)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Green Day',
-			song : 'The Saints Are Coming (ft U2)'
+			song : 'The Saints Are Coming (ft U2)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Green Day',
-			song : '21 Guns'
+			song : '21 Guns',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Offspring',
-			song : "Want You Bad"
+			song : "Want You Bad",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Offspring',
-			song : "Hit That"
+			song : "Hit That",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Offspring',
-			song : "Kristy, Are You Doing Okay?"
+			song : "Kristy, Are You Doing Okay?",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Sum 41',
-			song : "Fat Lip"
+			song : "Fat Lip (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Sum 41',
-			song : "Pieces"
+			song : "Pieces (2005)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Sum 41',
-			song : "In Too Deep"
+			song : "In Too Deep (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Blink 182',
-			song : "I Miss You"
+			song : "I Miss You (2004)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Blink 182',
-			song : "Always"
+			song : "Always (2004)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'Blink 182',
-			song : "Stay Together For The Kids"
+			song : "Stay Together For The Kids (2002)"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "Linkin Park",
-			song : 'In the end'
+			song : 'In the end',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Killers',
-			song : 'Mr. Brightside'
+			song : 'Mr. Brightside',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Linkin Park',
-			song : 'Breaking The Habit'
+			song : 'Breaking The Habit',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Linkin Park',
-			song : "Bleed It Out"
+			song : "Bleed It Out",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Red Hot Chili Peppers',
-			song : 'By the way'
+			song : 'By the way',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Red Hot Chili Peppers',
-			song : 'The Zephyr Song'
+			song : 'The Zephyr Song',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Red Hot Chili Peppers',
-			song : 'Tell Me Baby'
+			song : 'Tell Me Baby',
+			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
 			song : "Elevation"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
 			song : "Electrical Storm"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
 			song : "City Of Blinding Lights"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Nickelback',
-			song : "Rockstar"
+			song : "Rockstar",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Killers',
-			song : "Somebody Told Me"
+			song : "Somebody Told Me",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Killers',
-			song : "When You Were Young"
+			song : "When You Were Young",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Nickelback',
-			song : "Photograph"
+			song : "Photograph",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Nickelback',
-			song : "If Today Was Your Last Day"
+			song : "If Today Was Your Last Day",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -511,22 +529,23 @@ let en_2000_gr = [
 			song : "My Way"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Papa Roach',
 			song : 'Last Resort'
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : 'Bon Jovi',
-			song : "It's My Life"
+			song : "It's My Life",
+			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : "Drowning Pool",
 			song : 'Bodies'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : "System of a Down",
 			song : 'Chop Suey!'
 		},
@@ -538,45 +557,46 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : "White Stripes",
-			song : 'Seven Nation Army'
+			song : 'Seven Nation Army',
+			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Hoobastank',
 			song : 'The Reason'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Three Days Grace',
 			song : 'I Hate Everything About You'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Skillet',
 			song : "Comatose"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Skillet',
 			song : "Hero"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Skillet',
 			song : "Monster"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : '3 Doors Down',
 			song : "Train"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : '3 Doors Down',
 			song : "Kryptonite"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : '3 Doors Down',
 			song : "Here Without You"
 		},
@@ -601,12 +621,12 @@ let en_2000_gr = [
 			song : 'My Immortal'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "My Chemical Romance",
-			song : 'Welcome to the Black Parade'
+			song : 'Welcome to the Black Parade (2006)'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Kaiser Chiefs",
 			song : 'Ruby'
 		},
@@ -617,29 +637,30 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
 			song : 'Fire'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
 			song : 'Club Foot'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
 			song : 'L.S.F.'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Foo Fighters",
 			song : 'No Way Back'
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : "Metallica",
-			song : 'The Day That Never Comes'
+			song : 'The Day That Never Comes',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1027,32 +1048,32 @@ let en_2000_gr = [
 			song : "After the Love"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Fall Out Boy",
-			song : "Dance, Dance"
+			song : "Dance, Dance (2005)"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Fall Out Boy",
-			song : "This Ain’t a Scene, It’s an Arms Race"
+			song : "This Ain’t a Scene, It’s an Arms Race (2006)"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Fall Out Boy",
-			song : "Thanks for the Memories"
+			song : "Thanks for the Memories (2007)"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
 			song : "By Your Side"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
 			song : "1000 Oceans"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
 			song : "Darkside of the Sun"
 		},
@@ -1079,12 +1100,14 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_3,
 			group : "Guns N Roses",
-			song : "Chinese Democracy"
+			song : "Chinese Democracy (2008)",
+			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Semisonic",
-			song : "Chemistry"
+			song : "Chemistry",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1122,12 +1145,12 @@ let en_2000_gr = [
 			song : "Let Me Love You Tonight"
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Papa Roach',
 			song : 'Scars'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Papa Roach',
 			song : 'Getting Away with Murder'
 		},
@@ -1142,7 +1165,7 @@ let en_2000_gr = [
 			song : 'Here It Goes Again'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Incubus',
 			song : 'Drive'
 		},
@@ -1230,29 +1253,39 @@ let en_2000_gr = [
 			year : 2007
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Weezer",
 			song : 'Beverly Hills (2005)'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Weezer",
 			song : 'Island in the Sun (2001)'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : "Weezer",
 			song : 'Pork and Beans (2008)'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Yeah Yeah Yeahs',
 			song : 'Heads Will Roll (2009)'
 		},
 		{
-			pack : EN_2000_GR_PACK_3,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Yeah Yeah Yeahs',
 			song : 'Maps (2004)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "My Chemical Romance",
+			song : 'Teenagers (2007)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "My Chemical Romance",
+			song : 'Helena (2005)'
 		}
 ];
 
@@ -1284,15 +1317,11 @@ let music = [
 				},
 				{
 					arr: en_2000_gr_4,
-					name: "EN 2000s Groups: Rock Hard",
+					name: "EN 2000s Groups: Soft Rock",
 				},
 				{
 					arr: en_2000_gr_5,
-					name: "EN 2000s Groups: Rock#2",
-				},
-				{
-					arr: en_2000_gr_6,
-					name: 'EN 2000s Groups: Rock#1',
+					name: "EN 2000s Groups: Hard Rock",
 				}
 			]
 	}
