@@ -898,7 +898,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Reamonn",
-			song : "Tonight"
+			song : "Tonight",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -935,7 +936,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "NSYNC",
-			song : 'Bye Bye Bye'
+			song : 'Bye Bye Bye',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -975,7 +977,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Five',
 			song : "Rock the Party (2001)"
 		},
@@ -1152,12 +1154,14 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "INXS",
-			song : "Afterglow"
+			song : "Afterglow",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "INXS",
-			song : "Original Sin"
+			song : "Original Sin",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1343,7 +1347,7 @@ let en_2000_gr = [
 			song : 'You Raise Me Up (2005)'
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Five',
 			song : "Let's Dance (2001)"
 		},
