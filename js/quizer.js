@@ -742,20 +742,17 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Falling asleep',
-			ignore : true
+			song : 'Falling asleep (2006)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Save Me',
-			ignore : true
+			song : 'Save Me (2007)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Colors',
-			ignore : true
+			song : 'Colors (2009)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1355,6 +1352,36 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "Panic! At The Disco",
 			song : 'She Had the World (2008)'
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : "Fly Project",
+			song : 'Brasil (ft Anca Parghel and Tom Boxer) (2008)'
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : "Fly Project",
+			song : 'Raisa (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Thirty Seconds to Mars",
+			song : 'The Kill (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Thirty Seconds to Mars",
+			song : 'Kings and Queens (2009)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Thirty Seconds to Mars",
+			song : 'A Beautiful Lie (2007)'
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : "Gregorian",
+			song : "Moment of Peace (2001)"
 		}
 ];
 
