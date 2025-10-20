@@ -1001,7 +1001,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Fort Minor',
 			song : "Believe Me"
 		},
@@ -1336,7 +1336,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Westlife',
-			song : 'Uptown Girl (2001)'
+			song : 'Uptown Girl (2001)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1382,6 +1383,16 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : "Gregorian",
 			song : "Moment of Peace (2001)"
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : 'Westlife',
+			song : 'My Love (2000)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : 'Fort Minor',
+			song : "Remember the Name (ft Styles of Beyond)"
 		}
 ];
 
