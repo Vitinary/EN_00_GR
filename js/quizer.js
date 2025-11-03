@@ -1393,6 +1393,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : 'Fort Minor',
 			song : "Remember the Name (ft Styles of Beyond)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : '3OH!3',
+			song : "Don't Trust Me (2008)"
 		}
 ];
 
