@@ -1295,8 +1295,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Veronicas",
-			song : 'Untouched',
-			year : 2007
+			song : 'Untouched (2007)'
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -1398,6 +1397,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : '3OH!3',
 			song : "Don't Trust Me (2008)"
+		},
+		{
+			pack : EN_2000_GR_PACK_4,
+			group : "Mis-Teeq",
+			song : 'Scandalous (2003)'
 		}
 ];
 
