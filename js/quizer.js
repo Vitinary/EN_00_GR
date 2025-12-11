@@ -1482,6 +1482,21 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_2,
 			group : "Slipknot",
 			song : 'Left Behind (2000)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Simple Plan",
+			song : "I'm Just a Kid (2002)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Simple Plan",
+			song : 'Take My Hand (2008)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Simple Plan",
+			song : "When I'm Gone (2007)"
 		}
 ];
 
