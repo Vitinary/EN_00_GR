@@ -1497,6 +1497,21 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "Simple Plan",
 			song : "When I'm Gone (2007)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "POD",
+			song : "Boom (2002)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "POD",
+			song : "Find My Way (2003)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "POD",
+			song : "Youth Of The Nation (2001)"
 		}
 ];
 
