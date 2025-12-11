@@ -1499,19 +1499,34 @@ let en_2000_gr = [
 			song : "When I'm Gone (2007)"
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_2,
 			group : "POD",
 			song : "Boom (2002)"
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_2,
 			group : "POD",
 			song : "Find My Way (2003)"
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_2,
 			group : "POD",
 			song : "Youth Of The Nation (2001)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Counting Crows",
+			song : "Accidentally In Love (2004)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Scissor Sisters",
+			song : "I Don't Feel Like Dancin' (2006)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Scissor Sisters",
+			song : "Laura (2003)"
 		}
 ];
 
