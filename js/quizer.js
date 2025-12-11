@@ -1001,7 +1001,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
 			song : "Believe Me"
 		},
@@ -1389,7 +1389,7 @@ let en_2000_gr = [
 			song : 'My Love (2000)'
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
 			song : "Remember the Name (ft Styles of Beyond)"
 		},
@@ -1402,6 +1402,86 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_4,
 			group : "Mis-Teeq",
 			song : 'Scandalous (2003)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Plain White T's",
+			song : "Hate (I Really Don't Like You) (2006)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "AFI",
+			song : 'Miss Murder (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "AFI",
+			song : 'Prelude 12/21 (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Arctic Monkeys",
+			song : '505 (2007)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Arctic Monkeys",
+			song : 'Mardy Bum (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Arctic Monkeys",
+			song : 'Old Yellow Bricks (2007)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Audioslave",
+			song : 'Like a Stone (2003)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Audioslave",
+			song : 'Revelations (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Rise Against",
+			song : 'Savior (2009)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Rise Against",
+			song : 'Under The Knife (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Static-X",
+			song : 'New Pain (2003)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Static-X",
+			song : 'Skinnyman (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Static-X",
+			song : 'The Only (2003)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Slipknot",
+			song : 'Wait and Bleed (2001)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Slipknot",
+			song : 'Psychosocial (2008)'
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : "Slipknot",
+			song : 'Left Behind (2000)'
 		}
 ];
 
