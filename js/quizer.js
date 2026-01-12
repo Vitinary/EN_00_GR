@@ -540,7 +540,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_6,
 			group : "Drowning Pool",
 			song : 'Bodies'
 		},
@@ -562,7 +562,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_6,
 			group : 'Hoobastank',
 			song : 'The Reason'
 		},
@@ -628,7 +628,7 @@ let en_2000_gr = [
 			song : 'Welcome to the Black Parade (2006)'
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_6,
 			group : "Kaiser Chiefs",
 			song : 'Ruby'
 		},
@@ -888,7 +888,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_6,
 			group : "Narcotic Thrust",
 			song : "I Like It"
 		},
@@ -937,7 +937,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Simply Red',
 			song : 'Sunrise'
 		},
@@ -963,7 +963,7 @@ let en_2000_gr = [
 			song : "Beggin'"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_6,
 			group : 'No Angels',
 			song : "Still In Love With You"
 		},
@@ -1001,24 +1001,26 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_6,
 			group : 'Fort Minor',
 			song : "Believe Me"
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Chemical Brothers',
 			song : "Galvanize"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Hurts',
-			song : "Wonderful Life (2010)"
+			song : "Wonderful Life (2010)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Hurts',
-			song : "Stay (2010)"
+			song : "Stay (2010)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1071,19 +1073,21 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_5,
+			pack : EN_2000_GR_PACK_6,
 			group : "RIO",
 			song : "Shine On"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "RIO",
-			song : "When the Sun Comes Down"
+			song : "When the Sun Comes Down",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "RIO",
-			song : "After the Love"
+			song : "After the Love",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -1161,12 +1165,12 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : "Faithless",
 			song : "We Come 1 (2001)"
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : "Faithless",
 			song : "One Step Too Far (ft Dido) (2002)",
 			ignore : true
@@ -1205,12 +1209,12 @@ let en_2000_gr = [
 			song : 'Hiphopping'
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'OK Go',
 			song : 'Here It Goes Again'
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_6,
 			group : 'Incubus',
 			song : 'Drive'
 		},
@@ -1239,7 +1243,7 @@ let en_2000_gr = [
 			year : 2009
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_6,
 			group : "Theory of a Deadman",
 			song : 'Bad Girlfriend',
 			year : 2008
@@ -1248,13 +1252,15 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_2,
 			group : "Theory of a Deadman",
 			song : 'All or Nothing',
-			year : 2008
+			year : 2008,
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "Theory of a Deadman",
 			song : 'Hate My Life',
-			year : 2008
+			year : 2008,
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -1275,7 +1281,7 @@ let en_2000_gr = [
 			year : 2010
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_6,
 			group : "Breaking Benjamin",
 			song : 'The Diary of Jane',
 			year : 2006
@@ -1284,16 +1290,18 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_2,
 			group : "Breaking Benjamin",
 			song : 'I Will Not Bow',
-			year : 2009
+			year : 2009,
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "Breaking Benjamin",
 			song : 'Breath',
-			year : 2007
+			year : 2007,
+			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_6,
 			group : "Veronicas",
 			song : 'Untouched (2007)'
 		},
@@ -1391,7 +1399,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
-			song : "Remember the Name (ft Styles of Beyond)"
+			song : "Remember the Name (ft Styles of Beyond)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1399,7 +1408,7 @@ let en_2000_gr = [
 			song : "Don't Trust Me (2008)"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_6,
 			group : "Mis-Teeq",
 			song : 'Scandalous (2003)'
 		},
@@ -1514,7 +1523,7 @@ let en_2000_gr = [
 			song : "Youth Of The Nation (2001)"
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_6,
 			group : "Counting Crows",
 			song : "Accidentally In Love (2004)"
 		},
@@ -1527,6 +1536,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "Scissor Sisters",
 			song : "Laura (2003)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : "Wheatus",
+			song : "Teenage Dirtbag (2000)"
 		}
 ];
 
@@ -1545,10 +1559,6 @@ let music = [
 		type: 'gr',
 		packs: [
 				{
-					arr: en_2000_gr_1,
-					name: 'EN 2000s Groups: Pop Medium',
-				},
-				{
 					arr: en_2000_gr_2,
 					name: 'EN 2000s Groups: Pop Hard',
 				},
@@ -1563,6 +1573,10 @@ let music = [
 				{
 					arr: en_2000_gr_5,
 					name: "EN 2000s Groups: Hard Rock",
+				},
+				{
+					arr: en_2000_gr_1,
+					name: 'EN 2000s Groups: One Hit Wonders',
 				}
 			]
 	}
