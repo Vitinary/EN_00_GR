@@ -1541,6 +1541,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : "Wheatus",
 			song : "Teenage Dirtbag (2000)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : "Lustra",
+			song : "Scotty Doesn't Know (2004)"
 		}
 ];
 
