@@ -1546,6 +1546,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : "Lustra",
 			song : "Scotty Doesn't Know (2004)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : "Lazlo Bane",
+			song : "Superman (2002)"
 		}
 ];
 
@@ -1564,6 +1569,10 @@ let music = [
 		type: 'gr',
 		packs: [
 				{
+					arr: en_2000_gr_1,
+					name: 'EN 2000s Groups: Pop Medium',
+				},
+				{
 					arr: en_2000_gr_2,
 					name: 'EN 2000s Groups: Pop Hard',
 				},
@@ -1580,7 +1589,7 @@ let music = [
 					name: "EN 2000s Groups: Hard Rock",
 				},
 				{
-					arr: en_2000_gr_1,
+					arr: en_2000_gr_6,
 					name: 'EN 2000s Groups: One Hit Wonders',
 				}
 			]
@@ -1595,6 +1604,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1933,6 +1943,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
