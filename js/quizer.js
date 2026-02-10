@@ -1551,6 +1551,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : "Lazlo Bane",
 			song : "Superman (2002)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : "US5",
+			song : "Maria (2005)"
 		}
 ];
 
