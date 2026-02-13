@@ -521,7 +521,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Limp Bizkit',
-			song : "Rollin' (Air Raid Vehicle)"
+			song : "Rollin' (Air Raid Vehicle)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -1556,6 +1557,16 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : "US5",
 			song : "Maria (2005)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : "Alien Ant Farm",
+			song : "Smooth Criminal (2001)"
+		},
+		{
+			pack : EN_2000_GR_PACK_2,
+			group : 'Limp Bizkit',
+			song : "Take A Look Around (2000)"
 		}
 ];
 
