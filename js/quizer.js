@@ -1586,27 +1586,27 @@ let music = [
 		packs: [
 				{
 					arr: en_2000_gr_1,
-					name: 'EN 2000s Groups: Pop Medium',
+					name: 'EN 2000s Groups: Pop Medium'
 				},
 				{
 					arr: en_2000_gr_2,
-					name: 'EN 2000s Groups: Pop Hard',
+					name: 'EN 2000s Groups: Pop Hard'
 				},
 				{
 					arr: en_2000_gr_3,
-					name: "EN 2000s Groups: Women's Vocals",
+					name: "EN 2000s Groups: Women's Vocals"
 				},
 				{
 					arr: en_2000_gr_4,
-					name: "EN 2000s Groups: Soft Rock",
+					name: "EN 2000s Groups: Soft Rock"
 				},
 				{
 					arr: en_2000_gr_5,
-					name: "EN 2000s Groups: Hard Rock",
+					name: "EN 2000s Groups: Hard Rock"
 				},
 				{
 					arr: en_2000_gr_6,
-					name: 'EN 2000s Groups: One Hit Wonders',
+					name: 'EN 2000s Groups: One Hit Wonders'
 				}
 			]
 	}
