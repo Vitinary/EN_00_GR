@@ -1575,7 +1575,6 @@ let en_2000_gr_2 =	en_2000_gr.filter(item => item.pack == 2);
 let en_2000_gr_3 =	en_2000_gr.filter(item => item.pack == 3);
 let en_2000_gr_4 =	en_2000_gr.filter(item => item.pack == 4);
 let en_2000_gr_5 =	en_2000_gr.filter(item => item.pack == 5);
-let en_2000_gr_6 =	en_2000_gr.filter(item => item.pack == 6);
 
 let music = [
 	{
@@ -1586,26 +1585,22 @@ let music = [
 		packs: [
 				{
 					arr: en_2000_gr_1,
-					name: 'EN 2000s Groups: Pop Medium'
+					name: 'EN 2000s Groups: Pop'
 				},
 				{
 					arr: en_2000_gr_2,
-					name: 'EN 2000s Groups: Pop Hard'
-				},
-				{
-					arr: en_2000_gr_3,
 					name: "EN 2000s Groups: Women's Vocals"
 				},
 				{
-					arr: en_2000_gr_4,
+					arr: en_2000_gr_3,
 					name: "EN 2000s Groups: Soft Rock"
 				},
 				{
-					arr: en_2000_gr_5,
+					arr: en_2000_gr_4,
 					name: "EN 2000s Groups: Hard Rock"
 				},
 				{
-					arr: en_2000_gr_6,
+					arr: en_2000_gr_5,
 					name: 'EN 2000s Groups: One Hit Wonders'
 				}
 			]
