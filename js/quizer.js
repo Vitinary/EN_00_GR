@@ -956,7 +956,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Baha Men',
-			song : 'Who Let The Dogs Out'
+			song : 'Who Let The Dogs Out (2000)'
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1567,6 +1567,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_2,
 			group : 'Limp Bizkit',
 			song : "Take A Look Around (2000)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Calling',
+			song : 'Wherever You Will Go (2001)'
 		}
 ];
 
