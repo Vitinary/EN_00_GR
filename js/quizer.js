@@ -605,17 +605,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Garbage',
-			song : "Androgyny"
+			song : "Androgyny",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Garbage',
-			song : "Run Baby Run"
+			song : "Run Baby Run",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Garbage',
-			song : "Cherry Lips"
+			song : "Cherry Lips",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -668,7 +671,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Destiny's Child",
-			song : 'Say My Name'
+			song : 'Say My Name (1999)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -806,27 +810,32 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Black Eyed Peas",
-			song : "I Gotta Feeling"
+			song : "I Gotta Feeling",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Black Eyed Peas",
-			song : "Don't Phunk With My Heart"
+			song : "Don't Phunk With My Heart",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Black Eyed Peas",
-			song : "Meet Me Half Way"
+			song : "Meet Me Half Way",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Destiny's Child",
-			song : 'Independent Women, Pt. I'
+			song : 'Independent Women, Pt. I (2000)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Destiny's Child",
-			song : 'Survivor'
+			song : 'Survivor (2001)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -869,7 +878,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Backstreet Boys',
-			song : "Straight through my heart"
+			song : "Straight through my heart",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -913,12 +923,14 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Morcheeba',
-			song : 'Otherwise'
+			song : 'Otherwise',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Morcheeba',
-			song : 'World Looking In'
+			song : 'World Looking In',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1002,14 +1014,15 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
 			song : "Believe Me"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Chemical Brothers',
-			song : "Galvanize"
+			song : "Galvanize",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1048,12 +1061,14 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Backstreet Boys',
-			song : "Incomplete"
+			song : "Incomplete",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Backstreet Boys',
-			song : "Inconsolable"
+			song : "Inconsolable",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1228,26 +1243,22 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Paramore",
-			song : 'Misery Business',
-			year : 2007
+			song : 'Misery Business (2007)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Paramore",
-			song : 'Decode',
-			year : 2008
+			song : 'Decode (2008)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Paramore",
-			song : 'Ignorance',
-			year : 2009
+			song : 'Ignorance (2009)'
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Theory of a Deadman",
-			song : 'Bad Girlfriend',
-			year : 2008
+			song : 'Bad Girlfriend (2008)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -1400,8 +1411,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
-			song : "Remember the Name (ft Styles of Beyond)",
-			ignore : true
+			song : "Remember the Name (ft Styles of Beyond)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
