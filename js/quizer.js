@@ -548,7 +548,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "System of a Down",
-			song : 'Chop Suey!'
+			song : 'Chop Suey! (2001)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -660,7 +660,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Foo Fighters",
-			song : 'No Way Back'
+			song : 'No Way Back (2005)'
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
@@ -1582,6 +1582,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Calling',
 			song : 'Wherever You Will Go (2001)'
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Empire Of The Sun',
+			song : 'Walking On a Dream (2008)'
 		}
 ];
 
