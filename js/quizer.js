@@ -1587,6 +1587,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Empire Of The Sun',
 			song : 'Walking On a Dream (2008)'
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Bon Iver',
+			song : 'Skinny Love (2008)'
 		}
 ];
 
