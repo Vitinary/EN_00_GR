@@ -471,17 +471,17 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
-			song : "Elevation"
+			song : "Elevation (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
-			song : "Electrical Storm"
+			song : "Electrical Storm (2002)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
-			song : "City Of Blinding Lights"
+			song : "City Of Blinding Lights (2005)"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -516,7 +516,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Limp Bizkit',
-			song : "My Generation"
+			song : "My Generation (2000)"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -527,12 +527,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Limp Bizkit',
-			song : "My Way"
+			song : "My Way (2000)"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Papa Roach',
-			song : 'Last Resort'
+			song : 'Last Resort (2000)'
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
@@ -543,7 +543,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Drowning Pool",
-			song : 'Bodies'
+			song : 'Bodies (2001)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -565,42 +565,42 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Hoobastank',
-			song : 'The Reason'
+			song : 'The Reason (2003)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Three Days Grace',
-			song : 'I Hate Everything About You'
+			song : 'I Hate Everything About You (2003)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Skillet',
-			song : "Comatose"
+			song : "Comatose (2006)"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Skillet',
-			song : "Hero"
+			song : "Hero (2009)"
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Skillet',
-			song : "Monster"
+			song : "Monster (2009)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : '3 Doors Down',
-			song : "Train"
+			song : "Train (2008)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : '3 Doors Down',
-			song : "Kryptonite"
+			song : "Kryptonite (2000)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : '3 Doors Down',
-			song : "Here Without You"
+			song : "Here Without You (2003)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -634,7 +634,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Kaiser Chiefs",
-			song : 'Ruby'
+			song : 'Ruby (2007)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -645,17 +645,17 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
-			song : 'Fire'
+			song : 'Fire (2009)'
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
-			song : 'Club Foot'
+			song : 'Club Foot (2004)'
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
-			song : 'L.S.F.'
+			song : 'L.S.F. (2004)'
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -713,12 +713,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Pussycat Dolls',
-			song : "Don't Cha"
+			song : "Don't Cha (ft Basta Rhymes) (2005)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Pussycat Dolls",
-			song : 'Buttons (ft Snoop Dogg)'
+			song : 'Buttons (ft Snoop Dogg) (2005)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -840,7 +840,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Pussycat Dolls',
-			song : "Hush Hush"
+			song : "Hush Hush (2008)"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -857,7 +857,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Owl City',
-			song : 'Fireflies'
+			song : 'Fireflies (2009)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -873,7 +873,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "MGMT",
-			song : 'Kids'
+			song : 'Kids (2007)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -884,7 +884,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Hi Tack",
-			song : "Say Say Say"
+			song : "Say Say Say (2006)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -901,7 +901,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Narcotic Thrust",
-			song : "I Like It"
+			song : "I Like It (2004)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -912,7 +912,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Travis",
-			song : "Sing"
+			song : "Sing (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -952,7 +952,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'Simply Red',
-			song : 'Sunrise'
+			song : 'Sunrise (2003)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -963,7 +963,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Snow Patrol',
-			song : 'Chasing Cars'
+			song : 'Chasing Cars (2006)'
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -973,12 +973,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Madcon',
-			song : "Beggin'"
+			song : "Beggin' (2007)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'No Angels',
-			song : "Still In Love With You"
+			song : "Still In Love With You (2002)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -994,12 +994,12 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Florence + The Machine',
-			song : "Rabbit Heart (Raise It Up)"
+			song : "Rabbit Heart (Raise It Up) (2009)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : 'Florence + The Machine',
-			song : "Cosmic Love"
+			song : "Cosmic Love (2009)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1016,7 +1016,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
-			song : "Believe Me"
+			song : "Believe Me (2005)"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1045,7 +1045,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Mondotek',
-			song : "Alive"
+			song : "Alive (2007)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1056,7 +1056,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Lighthouse Family',
-			song : "Run"
+			song : "Run (2002)"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1091,7 +1091,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "RIO",
-			song : "Shine On"
+			song : "Shine On (2008)"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1123,17 +1123,17 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
-			song : "By Your Side"
+			song : "By Your Side (2007)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
-			song : "1000 Oceans"
+			song : "1000 Oceans (2008)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
-			song : "Darkside of the Sun"
+			song : "Darkside of the Sun (2009)"
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1144,17 +1144,17 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Jakarta",
-			song : "One Desire"
+			song : "One Desire (2008)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Sylver",
-			song : "Forgiven"
+			song : "Forgiven (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
 			group : "Sylver",
-			song : "Turn The Tide"
+			song : "Turn The Tide (2001)"
 		},
 		{
 			pack : EN_2000_GR_PACK_3,
@@ -1212,27 +1212,27 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Papa Roach',
-			song : 'Scars'
+			song : 'Scars (2004)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Papa Roach',
-			song : 'Getting Away with Murder'
+			song : 'Getting Away with Murder (2004)'
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Klubbheads',
-			song : 'Hiphopping'
+			song : 'Hiphopping (2001)'
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : 'OK Go',
-			song : 'Here It Goes Again'
+			song : 'Here It Goes Again (2006)'
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : 'Incubus',
-			song : 'Drive'
+			song : 'Drive (2000)'
 		},
 		{
 			pack : EN_2000_GR_PACK_4,
@@ -1277,26 +1277,24 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "Hollywood Undead",
-			song : 'Everywhere I Go',
-			year : 2009
+			song : 'Everywhere I Go (2009)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "Hollywood Undead",
-			song : 'Undead',
-			year : 2008
+			song : 'Undead (2008)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : "Hollywood Undead",
 			song : 'Hear Me Now',
-			year : 2010
+			year : 2010,
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
 			group : "Breaking Benjamin",
-			song : 'The Diary of Jane',
-			year : 2006
+			song : 'The Diary of Jane (2006)'
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -1411,7 +1409,7 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Fort Minor',
-			song : "Remember the Name (ft Styles of Beyond)"
+			song : "Remember the Name (ft Styles of Beyond) (2005)"
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
