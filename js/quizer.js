@@ -1600,6 +1600,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_2,
 			group : "System of a Down",
 			song : 'Radio/Video (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Ting Tings',
+			song : "That's Not My Name (2008)"
 		}
 ];
 
