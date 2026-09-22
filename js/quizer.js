@@ -344,12 +344,9 @@ function load(){
 // EN songs
 
 const en_2000_gr_icon = [
-	'pop_medium',
-	'pop_hard',
-	'womens_vocals',
-	'rock_1',
-	'rock_2',
-	'rock_hard'
+	'pop',
+	'rock',
+	'pop_2'
 ];
 
 const EN_2000_GR_PACK_1 = 3;
