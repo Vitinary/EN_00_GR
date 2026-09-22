@@ -961,7 +961,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_6,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Snow Patrol',
 			song : 'Chasing Cars (2006)'
 		},
@@ -1225,7 +1225,7 @@ let en_2000_gr = [
 			song : 'Hiphopping (2001)'
 		},
 		{
-			pack : EN_2000_GR_PACK_5,
+			pack : EN_2000_GR_PACK_6,
 			group : 'OK Go',
 			song : 'Here It Goes Again (2006)'
 		},
@@ -1605,6 +1605,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Ting Tings',
 			song : "That's Not My Name (2008)"
+		},
+		{
+			pack : EN_2000_GR_PACK_5,
+			group : 'Snow Patrol',
+			song : 'Run (2004)'
 		}
 ];
 
