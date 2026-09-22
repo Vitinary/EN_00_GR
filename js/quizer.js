@@ -514,7 +514,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Limp Bizkit',
 			song : "My Generation (2000)"
 		},
@@ -525,12 +525,12 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Limp Bizkit',
 			song : "My Way (2000)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Papa Roach',
 			song : 'Last Resort (2000)'
 		},
@@ -546,7 +546,7 @@ let en_2000_gr = [
 			song : 'Bodies (2001)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "System of a Down",
 			song : 'Chop Suey! (2001)'
 		},
@@ -570,20 +570,21 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_2,
 			group : 'Three Days Grace',
-			song : 'I Hate Everything About You (2003)'
+			song : 'I Hate Everything About You (2003)',
+			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Skillet',
 			song : "Comatose (2006)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Skillet',
 			song : "Hero (2009)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Skillet',
 			song : "Monster (2009)"
 		},
@@ -711,12 +712,12 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Pussycat Dolls',
 			song : "Don't Cha (ft Basta Rhymes) (2005)"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : "Pussycat Dolls",
 			song : 'Buttons (ft Snoop Dogg) (2005)'
 		},
@@ -747,17 +748,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Falling asleep (2006)'
+			song : 'Falling asleep (2006)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Save Me (2007)'
+			song : 'Save Me (2007)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
 			group : "Morandi",
-			song : 'Colors (2009)'
+			song : 'Colors (2009)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -838,7 +842,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Pussycat Dolls',
 			song : "Hush Hush (2008)"
 		},
@@ -992,12 +996,12 @@ let en_2000_gr = [
 			song : "Rock the Party (2001)"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Florence + The Machine',
 			song : "Rabbit Heart (Raise It Up) (2009)"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : 'Florence + The Machine',
 			song : "Cosmic Love (2009)"
 		},
@@ -1014,7 +1018,7 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Fort Minor',
 			song : "Believe Me (2005)"
 		},
@@ -1108,17 +1112,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Fall Out Boy",
-			song : "Dance, Dance (2005)"
+			song : "Dance, Dance (2005)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Fall Out Boy",
-			song : "This Ain’t a Scene, It’s an Arms Race (2006)"
+			song : "This Ain’t a Scene, It’s an Arms Race (2006)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Fall Out Boy",
-			song : "Thanks for the Memories (2007)"
+			song : "Thanks for the Memories (2007)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -1147,12 +1154,12 @@ let en_2000_gr = [
 			song : "One Desire (2008)"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : "Sylver",
 			song : "Forgiven (2001)"
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : "Sylver",
 			song : "Turn The Tide (2001)"
 		},
@@ -1210,12 +1217,12 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Papa Roach',
 			song : 'Scars (2004)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Papa Roach',
 			song : 'Getting Away with Murder (2004)'
 		},
@@ -1241,17 +1248,17 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : "Paramore",
 			song : 'Misery Business (2007)'
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : "Paramore",
 			song : 'Decode (2008)'
 		},
 		{
-			pack : EN_2000_GR_PACK_4,
+			pack : EN_2000_GR_PACK_5,
 			group : "Paramore",
 			song : 'Ignorance (2009)'
 		},
@@ -1275,12 +1282,12 @@ let en_2000_gr = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Hollywood Undead",
 			song : 'Everywhere I Go (2009)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Hollywood Undead",
 			song : 'Undead (2008)'
 		},
@@ -1407,7 +1414,7 @@ let en_2000_gr = [
 			song : 'My Love (2000)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Fort Minor',
 			song : "Remember the Name (ft Styles of Beyond) (2005)"
 		},
@@ -1424,7 +1431,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Plain White T's",
-			song : "Hate (I Really Don't Like You) (2006)"
+			song : "Hate (I Really Don't Like You) (2006)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -1452,52 +1460,52 @@ let en_2000_gr = [
 			song : 'Old Yellow Bricks (2007)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Audioslave",
 			song : 'Like a Stone (2003)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Audioslave",
 			song : 'Revelations (2006)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Rise Against",
 			song : 'Savior (2009)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Rise Against",
 			song : 'Under The Knife (2006)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Static-X",
 			song : 'New Pain (2003)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Static-X",
 			song : 'Skinnyman (2005)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Static-X",
 			song : 'The Only (2003)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Slipknot",
 			song : 'Wait and Bleed (2001)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Slipknot",
 			song : 'Psychosocial (2008)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "Slipknot",
 			song : 'Left Behind (2000)'
 		},
@@ -1517,17 +1525,17 @@ let en_2000_gr = [
 			song : "When I'm Gone (2007)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "POD",
 			song : "Boom (2002)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "POD",
 			song : "Find My Way (2003)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "POD",
 			song : "Youth Of The Nation (2001)"
 		},
@@ -1572,7 +1580,7 @@ let en_2000_gr = [
 			song : "Smooth Criminal (2001)"
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : 'Limp Bizkit',
 			song : "Take A Look Around (2000)"
 		},
@@ -1597,7 +1605,7 @@ let en_2000_gr = [
 			song : 'Addicted To Bass (2001)'
 		},
 		{
-			pack : EN_2000_GR_PACK_2,
+			pack : EN_2000_GR_PACK_1,
 			group : "System of a Down",
 			song : 'Radio/Video (2005)'
 		},
@@ -1631,16 +1639,8 @@ let music = [
 					name: 'EN 2000s Groups: Pop'
 				},
 				{
-					arr: en_2000_gr_2,
-					name: "EN 2000s Groups: Women's Vocals"
-				},
-				{
 					arr: en_2000_gr_3,
-					name: "EN 2000s Groups: Soft Rock"
-				},
-				{
-					arr: en_2000_gr_4,
-					name: "EN 2000s Groups: Hard Rock"
+					name: "EN 2000s Groups: Rock"
 				},
 				{
 					arr: en_2000_gr_5,
