@@ -1640,6 +1640,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "Blue October",
 			song : 'Into the Ocean (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : 'Fort Minor',
+			song : "Where'd You Go (ft Holly Brook and Jonah Matranga) (2006)"
 		}
 ];
 
