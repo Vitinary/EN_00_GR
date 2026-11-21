@@ -1620,6 +1620,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Finger Eleven',
 			song : "Paralyzer (2007)"
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Yellowcard',
+			song : "Ocean Avenue (2004)"
 		}
 ];
 
