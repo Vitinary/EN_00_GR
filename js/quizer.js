@@ -1625,6 +1625,21 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Yellowcard',
 			song : "Ocean Avenue (2004)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Blue October",
+			song : 'Say It (2009)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Blue October",
+			song : 'Hate Me (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Blue October",
+			song : 'Into the Ocean (2006)'
 		}
 ];
 
