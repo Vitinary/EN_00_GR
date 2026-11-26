@@ -1542,14 +1542,15 @@ let en_2000_gr = [
 			song : "Accidentally In Love (2004)"
 		},
 		{
-			pack : EN_2000_GR_PACK_1,
+			pack : EN_2000_GR_PACK_6,
 			group : "Scissor Sisters",
 			song : "I Don't Feel Like Dancin' (2006)"
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Scissor Sisters",
-			song : "Laura (2003)"
+			song : "Laura (2003)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
