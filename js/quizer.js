@@ -1682,6 +1682,11 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "Creed",
 			song : 'My Sacrifice" (2000)'
+		},
+		{
+			pack : EN_2000_GR_PACK_6,
+			group : 'Jimmy Eat World',
+			song : "The Middle (2001)"
 		}
 ];
 
