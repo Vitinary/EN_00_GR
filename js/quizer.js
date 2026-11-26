@@ -468,17 +468,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
-			song : "Elevation (2001)"
+			song : "Elevation (2001)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
-			song : "Electrical Storm (2002)"
+			song : "Electrical Storm (2002)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : 'U2',
-			song : "City Of Blinding Lights (2005)"
+			song : "City Of Blinding Lights (2005)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_2,
@@ -643,17 +646,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
-			song : 'Fire (2009)'
+			song : 'Fire (2009)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
-			song : 'Club Foot (2004)'
+			song : 'Club Foot (2004)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Kasabian",
-			song : 'L.S.F. (2004)'
+			song : 'L.S.F. (2004)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
@@ -869,7 +875,8 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Panic! At The Disco",
-			song : 'I Write Sins Not Tragedies (2006)'
+			song : 'I Write Sins Not Tragedies (2006)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
@@ -1127,17 +1134,20 @@ let en_2000_gr = [
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
-			song : "By Your Side (2007)"
+			song : "By Your Side (2007)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
-			song : "1000 Oceans (2008)"
+			song : "1000 Oceans (2008)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_1,
 			group : "Tokio Hotel",
-			song : "Darkside of the Sun (2009)"
+			song : "Darkside of the Sun (2009)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_GR_PACK_5,
@@ -1606,6 +1616,12 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_1,
 			group : "System of a Down",
 			song : 'Radio/Video (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "Scissor Sisters",
+			song : "I Don't Feel Like Dancin' (2006)",
+			ignore: true
 		},
 		{
 			pack : EN_2000_GR_PACK_6,
