@@ -1687,6 +1687,21 @@ let en_2000_gr = [
 			pack : EN_2000_GR_PACK_6,
 			group : 'Jimmy Eat World',
 			song : "The Middle (2001)"
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "KoRn",
+			song : 'Twisted Transistor (2005)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "KoRn",
+			song : 'Coming Undone (2006)'
+		},
+		{
+			pack : EN_2000_GR_PACK_1,
+			group : "KoRn",
+			song : 'Word Up! (2004)'
 		}
 ];
 
